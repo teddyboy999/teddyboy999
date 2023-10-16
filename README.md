@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teddyboy999
+- 👋 Hello there, I’m Bhushith, @teddyboy999
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C and Python activities
