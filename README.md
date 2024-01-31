@@ -1,7 +1,7 @@
 - 👋 Hello there, I’m Bhushith, @teddyboy999
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C and Python activities
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on C, Python, and Web Development activities
 - 📫 How to reach me- Use haribhushith9999@gmail.com 
 
 <!---
