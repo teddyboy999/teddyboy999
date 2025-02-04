@@ -1,7 +1,8 @@
 - 👋 Hello there, I’m Bhushith, @teddyboy999
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning JavaScript, and experimenting a little with GameDev and WebDev
-- 💞️ I’m looking to collaborate on C, Python, and Web Development activities
+- 👀 I’m interested in AI and CyberSecurity
+- 🌱 I’m currently learning JavaScript, experimenting a little with GameDev, learning cybersecurity principles from tryhackme
+-    and learning WebDev.
+- 💞️ I’m looking to collaborate on C, Python, AI, and Web Development activities
 - 📫 How to reach me- Use haribhushith9999@gmail.com 
 
 <!---
