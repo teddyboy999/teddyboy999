@@ -1,9 +1,17 @@
+# Me!
 - 👋 Hello there, I’m Bhushith, @teddyboy999
 - 👀 I’m interested in AI and CyberSecurity
 - 🌱 I’m currently learning JavaScript, experimenting a little with GameDev, learning cybersecurity principles from tryhackme
 -    and learning WebDev.
 - 💞️ I’m looking to collaborate on C, Python, AI, and Web Development activities
-- 📫 How to reach me- Use haribhushith9999@gmail.com 
+- 📫 How to reach me- Use haribhushith9999@gmail.com
+
+## More
+- I am the Leader of the Computer Science Society for Temple University Japan Campus, here's our Instagram: [TUJ CS Society Instagram](https://www.instagram.com/tuj_cs_society/)
+- I also write blogs for the CS Society, here's the official blog: [Official Blog of TUJ CS Society](https://tuj-computer-science-society.github.io/tuj-cs-society-blog/)
+
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/bhushith-gujjala-hari-9a5876276)
 
 <!---
 teddyboy999/teddyboy999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
