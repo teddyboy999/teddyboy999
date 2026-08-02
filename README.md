@@ -1,4 +1,4 @@
-# Me!
+# About Me!
 - 👋 Hello there, I’m Bhushith, @teddyboy999
 - 👀 I’m interested in AI and CyberSecurity
 - 🌱 I’m currently learning JavaScript, experimenting a little with GameDev, learning cybersecurity principles from tryhackme
@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on C, Python, AI, and Web Development activities
 - 📫 How to reach me- Use haribhushith9999@gmail.com
 
-## Other stuff I do
+## Hobbies
 - I am the Leader of the Computer Science Society for Temple University Japan Campus, here's our Instagram: [TUJ CS Society Instagram](https://www.instagram.com/tuj_cs_society/)
 - I also write blogs for the CS Society, here's the official blog: [Official Blog of TUJ CS Society](https://tuj-computer-science-society.github.io/tuj-cs-society-blog/)
 - I also draw PixelArt, it's one of my favourite Hobbies outside Game Development. Here's my Art Instagram: [My PixelArt Account](https://www.instagram.com/teddyboy_2005/)
